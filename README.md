@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashbhalshankar.github.io/portfolio/](https://akashbhalshankar.github.io/portfolio/)
 
-- 📫 How to reach me **akashbhalshankar474@gmail.com**
+- 📫 How to reach me **akashbhalshankar07@gmail.com**
 
 - ⚡ Fun fact **I am funny😉**
 
