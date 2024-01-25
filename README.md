@@ -1,4 +1,4 @@
-![logo](https://github.com/AkashBhalshankar/AkashBhalshankar/blob/main/gitback.pdf)
+![logo](https://github.com/AkashBhalshankar/AkashBhalshankar/blob/main/gitback_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm Akash Bhalshankar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
